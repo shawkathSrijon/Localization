@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MultilingualApp
+
+  Created by Simec Sys Ltd. on 6/2/21.
+  
+*/
+
+"Registration" = "নিবন্ধন";
+"Username" = "ব্যবহারকারীর নাম";
+"FirstName" = "নামের প্রথম অংশ";
+"LastName" = "নামের শেষাংশ";
+"SignUp" = "নিবন্ধন করুন";

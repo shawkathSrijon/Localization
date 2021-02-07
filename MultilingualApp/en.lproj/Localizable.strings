@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MultilingualApp
+
+  Created by Simec Sys Ltd. on 6/2/21.
+  
+*/
+
+"Registration" = "Registration";
+"Username" = "Username";
+"FirstName" = "First Name";
+"LastName" = "Last Name";
+"SignUp" = "Sign Up";
